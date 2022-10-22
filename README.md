@@ -1,1 +1,0 @@
-# supermarket-APP-React-Native
